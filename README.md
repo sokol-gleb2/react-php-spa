@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + PHP + SPA
 
 This template provides a minimal setup to get React SPA working in Vite with PHP on the backend.
 
